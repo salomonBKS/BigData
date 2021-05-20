@@ -1,0 +1,15 @@
+<component name="ArtifactManager">
+  <artifact name="Examen Big Data:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/Examen_Big_Data_jar</output-path>
+    <root id="root">
+      <element id="archive" name="Examen Big Data.jar">
+        <element id="directory" name="META-INF">
+          <element id="file-copy" path="$PROJECT_DIR$/src/main/scala/META-INF/MANIFEST.MF" />
+        </element>
+        <element id="module-output" name="Examen Big Data" />
+        <element id="dir-copy" path="$PROJECT_DIR$" />
+      </element>
+      <element id="library" level="application" name="scala-sdk-2.11.81" />
+    </root>
+  </artifact>
+</component>
